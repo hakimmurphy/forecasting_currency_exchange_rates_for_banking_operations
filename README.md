@@ -26,7 +26,7 @@ This project forecasts **SGD/USD** and **CNY/USD** exchange rates to support ban
 1. **Install dependencies:**
    - Run the first notebook cell to install required packages:
      ```bash
-     pip install darts optuna joblib
+     pip install darts
      ```
 2. **Open and run the notebook:**
    - `forecasting_currency_exchange_rates_for_banking_operations.ipynb`
