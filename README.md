@@ -106,4 +106,10 @@ This project forecasts **SGD/USD** and **CNY/USD** exchange rates to support ban
 
 ---
 
-Feel free to fork, use, or extend this project for your own forecasting and analytics needs!
+## 📄 License
+MIT
+
+---
+
+## 🗣️ Author
+Hakim Murphy
